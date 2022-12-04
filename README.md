@@ -1,6 +1,24 @@
-# algoritma-dan-pemrograman-II
-Advance course of [Algoritma dan Pemrograman I](https://github.com/anandamyzza/algoritma-dan-pemrograman-I)
+# Algoritma dan Pemrograman II
+This course is a basic course to provide an understanding the basics of implementing algorithms and basic programming in cases that are often used in programming world. This course is a compulsory subject and the advance course of [Algoritma dan Pemrograman I](https://github.com/anandamyzza/algoritma-dan-pemrograman-I), college students can contract this course in the second semester.
 
-## Usage Instruction 
-To run the code on your local machine follow the following instruction after cloning the repo.
-* use cmd on your path directory in terminal by using command <br>```gcc *.c -o [file name].exe```
+## Course Ojectives
+The aim of this course is for students to be able to apply the basic concepts of algorithms and programming to programming languages without depending on the programming language used. By understanding the concept of implementing algorithms, it is expected that students will have no difficulty solving problems in making algorithms and applying them to cases that are often used without depending on the programming language used.
+
+## Practicum
+This course is accompanied by a practicum which will help increase students' understanding and skills in creating and implementing algorithms and implementing them in a programming language, the practicum will be accompanied by assistants lecturer who have been selected by the course lecturer herself.
+
+## Course Material
+This lecture will discuss material on implementing basic algorithms such as:<br>
+* Matrix
+* Recursive
+* Sorting Algorithm
+* Search Algorithm
+* Table Merge
+* Sequential File
+* Abstract Machine
+
+## Evaluation
+The lecture process is carried out with theory and practice where assessment is carried out through quizzes, UTS (Mid Semester Examination), UAS (Final Semester Examination), assignments, and practicum.
+
+#### Reference
+Rosa, A.S. and Shalahuddin, M., 2010. [Algoritma dan Pemrograman](http://rosa-as.id/buku/df.php?df=7). Penerbit Modula.
